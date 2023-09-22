@@ -15,7 +15,10 @@
 
 
 
-![](Aspose.Words.f982c5bd-561c-400e-ae3a-f02aa9716a44.001.png)
+
+![SM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/0318bb4c-f005-40e8-949c-64e92d952af8)
+
+
 
 |**Advantage**|**Disadvantage**|
 | :- | :- |
