@@ -12,13 +12,10 @@
 - If a piece doesn't fit perfectly, we adjust it slightly until it fits just right (iterate and refine the feature).
 - We keep doing this until all the pieces are put together, and we have a complete puzzle (a fully functional software product).
 
-![](Aspose.Words.21a7d855-aaa3-433f-b254-b984e48d226a.001.png)
+![AM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/1c9c5b2a-04ff-4b3e-8cf8-40b1f9e9a01a)
 
 
 
 
-
-`                     `Advantages                                                         Disadvantages
-
-![](Aspose.Words.21a7d855-aaa3-433f-b254-b984e48d226a.002.png)
+![PC](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/5b845cb3-0499-47e7-9d42-a6935e46b23f)
 
