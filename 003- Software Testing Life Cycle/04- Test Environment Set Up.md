@@ -1,4 +1,4 @@
-﻿**Test Environment Set Up:**
+﻿## Test Environment Set Up: ##
 
 **Objective:**
 
@@ -12,5 +12,5 @@
 
 **Real time example:**
 
-`              `Set up the testing environment, including configuring the devices(emulators or physical devices), setting up test databases and installing necessary software and tools for testing.
+ Set up the testing environment, including configuring the devices(emulators or physical devices), setting up test databases and installing necessary software and tools for testing.
 
