@@ -11,7 +11,7 @@
 - We use the V-Model for important projects where we need to be really careful and sure about the software, just like in hospitals or military systems.
 
 
-![](Aspose.Words.a9d098e4-47a1-4db9-a707-b75c28ab2535.001.png)
+![VM](https://github.com/rhushikesh2000/JAVA_TUTORIAL_/assets/142867318/3b315f59-795e-4a56-9183-eebad84ff4fd)
 
 |**Advantage**|**Disadvantage**|
 | :- | :- |
