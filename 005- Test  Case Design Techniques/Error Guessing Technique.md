@@ -1,10 +1,9 @@
-﻿- **Error Guessing Technique:**
+﻿## Error Guessing Technique: ##
 
-1) Error Guessing is used to find bugs in software application based on testers prior experience. 
+i) Error Guessing is used to find bugs in software application based on testers prior experience. 
 
-`       `ii)  Here we won’t follow any specific rules.
+ii)  Here we won’t follow any specific rules.
 
-`                   `Example:
+Example:
 
-`                   `![](Aspose.Words.d649832f-c451-4a2e-8beb-0f5d7e0aa647.001.png)
-
+![EGT](https://github.com/manoja13702/Manual-Testing-./assets/142867318/5d984a42-9723-499f-8112-73451b51efb9)
