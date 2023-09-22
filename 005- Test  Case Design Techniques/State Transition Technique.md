@@ -1,12 +1,14 @@
-﻿- **State Transition Technique:**
+## State Transition Technique: ##
 
-1) Using state transition testing, we pick test cases from an application where we need to test different system transitions. 
+i) Using state transition testing, we pick test cases from an application where we need to test different system transitions. 
 
-`       `ii)           We can apply this when an application gives a different output for the same input, depending on what has happened in the earlier state. 
+ii) We can apply this when an application gives a different output for the same input, depending on what has happened in the earlier state. 
 
-Example: Login with invalid username and password three times keeps the account page blocked until change password.
+**Example:** 
 
-Example:
+Login with invalid username and password three times keeps the account page blocked until change password.
 
-![](Aspose.Words.47da23e0-5a18-4481-afa0-73c5dc483bea.001.png)
+![STT](https://github.com/manoja13702/Manual-Testing-./assets/142867318/c8899e73-cf03-4c32-b673-50ea7b4f99b7)
+
+
 
