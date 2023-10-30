@@ -34,7 +34,7 @@ Automation testing involves using automated tools and scripts to perform test ca
 
 **Efficiency & Reusability:**
 
-- ` `Highly efficient for repetitive test cases, regression testing, and large-scale applications.
+- Highly efficient for repetitive test cases, regression testing, and large-scale applications.
 - Test scripts can be reused for multiple test cycles, saving time and effort.
 
 **Examples:**
